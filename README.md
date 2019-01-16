@@ -1,13 +1,13 @@
 # Coding-Interview-Prep
 Collection of articles, websites, books, and other resources I found useful while studying for interviews. This list will grow as I progress through my studies.
 
-
 ## Table of Contents
 
 - [Articles](#articles)
 - [Book List](#book-list)
 - [Websites](#websites)
 - [Videos](#videos)
+- [GitHub Repositories](#github-repositories)
 
 ## Articles
 - [ ] [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74) by Sam Gavis-Hughson
@@ -32,3 +32,10 @@ Collection of articles, websites, books, and other resources I found useful whil
 
 ## Videos
 - [ ] [Testing Coding Interview Solutions](https://www.youtube.com/watch?v=HgthIgvdMJ8) by Byte By Byte
+
+## GitHub Repositories
+- [ ] [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [ ] [C++ Syntax, Data Structures, and Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+- [ ] [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [ ] [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [ ] [Popular Algorithms and Data Structures implemented in popular languages](https://github.com/iiitv/algos)
