@@ -2,12 +2,33 @@
 Collection of articles, websites, books, and other resources I found useful while studying for interviews. This list will grow as I progress through my studies.
 
 ## Table of Contents
-
+- [To Do](#to-do)
 - [Articles](#articles)
 - [Book List](#book-list)
 - [Websites](#websites)
 - [Videos](#videos)
 - [GitHub Repositories](#github-repositories)
+
+## To Do
+- [ ] Data Structures
+    -  [ ] Linked Lists
+    -  [ ] Trees & Graphs
+    -  [ ] Stacks & Queues
+    -  [ ] Heaps
+    -  [ ] Vectors & ArrayLists
+    -  [ ] Hash Tables
+- [ ] Algorithms
+    -  [ ] Breadth-First Search
+    -  [ ] Depth-First Search
+    -  [ ] Binary Search
+    -  [ ] Merge Sort
+    -  [ ] Quick Sort
+- [ ] Concepts
+    -  [ ] Bit Manipulation
+    -  [ ] Memory (Stack vs. Heap)
+    -  [ ] Recursion
+    -  [ ] Dynamic Programming
+    -  [ ] Big O Time & Space Complexity
 
 ## Articles
 - [ ] [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74) by Sam Gavis-Hughson
