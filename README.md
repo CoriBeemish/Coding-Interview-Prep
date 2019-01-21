@@ -3,6 +3,7 @@ Collection of articles, websites, books, and other resources I found useful whil
 
 ## Table of Contents
 - [To Do](#to-do)
+- [Personal Resources](#personal-resources)
 - [Articles](#articles)
 - [Book List](#book-list)
 - [Websites](#websites)
@@ -29,6 +30,9 @@ Collection of articles, websites, books, and other resources I found useful whil
     -  [ ] Recursion
     -  [ ] Dynamic Programming
     -  [ ] Big O Time & Space Complexity
+
+## Personal Resources
+- [Big O Notation Quizlet Set](https://quizlet.com/_3j6l8b)
 
 ## Articles
 - [ ] [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74) by Sam Gavis-Hughson
