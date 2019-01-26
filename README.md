@@ -28,7 +28,7 @@ Collection of articles, websites, books, and other resources I found useful whil
     -  [ ] Bit Manipulation
     -  [ ] Memory (Stack vs. Heap)
     -  [ ] Recursion
-    -  [ ] Dynamic Programming
+    -  [x] Dynamic Programming
     -  [ ] Big O Time & Space Complexity
 
 ## Personal Resources
