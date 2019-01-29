@@ -30,7 +30,7 @@ Collection of articles, websites, books, and other resources I found useful whil
     -  [ ] Memory (Stack vs. Heap)
     -  [ ] Recursion
     -  [x] Dynamic Programming
-    -  [ ] Big O Time & Space Complexity
+    -  [x] Big O Time & Space Complexity
 
 ## Personal Resources
 - [Big O Notation Quizlet Set](https://quizlet.com/_3j6l8b)
