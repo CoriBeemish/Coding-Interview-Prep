@@ -32,9 +32,6 @@ Collection of articles, websites, books, and other resources I found useful whil
     -  [x] Dynamic Programming
     -  [x] Big O Time & Space Complexity
 
-## Personal Resources
-- [Big O Notation Quizlet Set](https://quizlet.com/_3j6l8b)
-
 ## Articles
 - [ ] [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74) by Sam Gavis-Hughson
 - [ ] [Optimize your studying with the Three Pillars of Coding Interview Prep](https://www.byte-by-byte.com/optimize-studying/) by Sam Gavis-Hughson
