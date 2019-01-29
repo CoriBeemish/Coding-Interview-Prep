@@ -9,7 +9,7 @@ Collection of articles, websites, books, and other resources I found useful whil
 - [Websites](#websites)
 - [Videos](#videos)
 - [GitHub Repositories](#github-repositories)
-- [Notes](#notes)
+- [Schedule](#schedule)
 
 ## To Do
 - [ ] Data Structures
@@ -64,14 +64,3 @@ Collection of articles, websites, books, and other resources I found useful whil
 - [ ] [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [ ] [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [ ] [Popular Algorithms and Data Structures implemented in popular languages](https://github.com/iiitv/algos)
-
-## Notes
-Repetion Study Notes
-- Watch a couple of hours of videos on the topic, to get the main idea
-- Implement the algorithms and data structures on that topic
-- Make flash cards for important things I should remember about the topic
-- Move on to the next topic
-- Review the flash cards
-- After a few days, watch another video about the topic
-- After another week, watch another video about the topic
-- Keep reviewing flash cards
