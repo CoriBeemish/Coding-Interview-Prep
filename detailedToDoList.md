@@ -159,11 +159,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ### Arrays
 - Implement an automatically resizing vector.
-- [ ] [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+- [ ] [Arrays (Coursera)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
 - [ ] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
 - [ ] [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
 - [ ] [Multi-dim (video)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
-- [ ] [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
+- [ ] [Dynamic Arrays (Coursera)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
 - [ ] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
 - [ ] [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
 - [ ] [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
@@ -194,14 +194,14 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
       - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 ### Linked Lists
-- [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
+- [ ] [Singly Linked Lists (Coursera)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
 - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
 - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
 - [ ] [C Code (video)](https://www.youtube.com/watch?v=QN6FPiD0Gzo)
 	- not the whole video, just portions about Node struct and memory allocation.
 - [ ] Linked List vs Arrays:
-	- [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
-    - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+	- [Core Linked Lists Vs Arrays (Coursera)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
+    - [In The Real World Linked Lists Vs Arrays (Coursera)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
 - [ ] [Why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 - [ ] You need pointer to pointer knowledge:(for when you pass a pointer to a function that may change the address where that pointer points. [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
 - [ ] implement (With tail pointer & without):
@@ -220,15 +220,15 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] reverse() - reverses the list
     - [ ] remove_value(value) - removes the first item in the list with this value
 - [ ] Doubly-linked List
-	- [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
+	- [Description (Coursera)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
 
 ### Stack
-- [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+- [ ] [Stacks (Coursera)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
 - [ ] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
 
 ### Queue
 - [ ] [Using Queues First-In First-Out(video)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
-- [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+- [ ] [Queue (Coursera)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
 - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
 - [ ] [Priority Queues (video)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
 - [ ] Implement using linked-list, with tail pointer:
