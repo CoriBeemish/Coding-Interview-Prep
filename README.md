@@ -40,6 +40,7 @@ Collection of articles, websites, books, and other resources I found useful whil
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4) by David Byttow
 - [ ] [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 - [ ] [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [ ] [How To Prepare For A Technical Interview](https://medium.com/@dominicwhite/how-to-prepare-for-a-technical-interview-182e64dd95ae)
 
 ## Book List
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
