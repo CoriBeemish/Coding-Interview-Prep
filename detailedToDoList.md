@@ -1,5 +1,5 @@
 # Detailed To Do List
-
+> Pulled from "Coding Inverview University" by jwasham
 ## Table of Contents
 
 - [If You don't feel you aren't smart enough](#If-you-dont-feel-you-arent-smart-enough)
