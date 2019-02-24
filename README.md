@@ -9,7 +9,7 @@ Collection of articles, websites, books, and other resources I found useful whil
 - [Websites](#websites)
 - [Videos](#videos)
 - [GitHub Repositories](#github-repositories)
-- [Schedule](#schedule)
+- [Flash Cards](#flash-cards)
 
 ## To Do
 - [ ] Data Structures
@@ -65,3 +65,8 @@ Collection of articles, websites, books, and other resources I found useful whil
 - [ ] [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
 - [ ] [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [ ] [Popular Algorithms and Data Structures implemented in popular languages](https://github.com/iiitv/algos)
+
+## Flash Cards
+I'm using [Anki](https://apps.ankiweb.net/)
+- SAP ABAP Deck: https://ankiweb.net/shared/info/2130755261
+    - Note: As of 02/23/2019, I'm still working on this deck, so there are duplicates and it's not comprehensive yet.
