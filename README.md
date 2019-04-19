@@ -13,6 +13,7 @@ Collection of articles, websites, books, and other resources I found useful whil
 
 ## To Do
 - [ ] Data Structures
+    -  [x] Arrays
     -  [ ] Linked Lists
     -  [ ] Trees & Graphs
     -  [ ] Stacks & Queues
@@ -68,5 +69,7 @@ Collection of articles, websites, books, and other resources I found useful whil
 
 ## Flash Cards
 I'm using [Anki](https://apps.ankiweb.net/)
+- Java:
+    - Still in progress so there are duplicates and it's not comprehensive yet.
 - SAP ABAP Deck: https://ankiweb.net/shared/info/2130755261
-    - Note: As of 02/23/2019, I'm still working on this deck, so there are duplicates and it's not comprehensive yet.
+    - Still in progress so there are duplicates and it's not comprehensive yet.
